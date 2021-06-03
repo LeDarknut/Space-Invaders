@@ -1,0 +1,17 @@
+<svg id="svg" width="4" height="8" fill="#000000">
+	<rect id="background" x="0" y="0" width="4" height="8" fill="#000000"/>
+	<g id="path-1">
+		<g id="path-2">
+			<path d="
+				M 0,8
+				L 0,7
+				A 1,1 0 0,0 0,5
+				L 0,2
+				A 2,2 0 0,1 4,2
+				L 4,5
+				A 1,1 0 0,0 4,7
+				L 4,8
+				Z" fill="#ffffff"/>
+		</g>
+	</g>
+</svg>
